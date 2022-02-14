@@ -1,3 +1,3 @@
-# reposs
+# repos
 My first GitHub repos!
 Hello Odin!
